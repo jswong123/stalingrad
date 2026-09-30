@@ -9308,462 +9308,6 @@
       },
       {
         "from": {
-          "q": 29,
-          "r": 12
-        },
-        "to": {
-          "q": 30,
-          "r": 12
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 30,
-          "r": 12
-        },
-        "to": {
-          "q": 31,
-          "r": 12
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 31,
-          "r": 12
-        },
-        "to": {
-          "q": 32,
-          "r": 12
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 32,
-          "r": 12
-        },
-        "to": {
-          "q": 33,
-          "r": 12
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 33,
-          "r": 12
-        },
-        "to": {
-          "q": 34,
-          "r": 12
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 34,
-          "r": 12
-        },
-        "to": {
-          "q": 35,
-          "r": 12
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 35,
-          "r": 12
-        },
-        "to": {
-          "q": 36,
-          "r": 12
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 36,
-          "r": 12
-        },
-        "to": {
-          "q": 36,
-          "r": 13
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 36,
-          "r": 13
-        },
-        "to": {
-          "q": 36,
-          "r": 14
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 36,
-          "r": 14
-        },
-        "to": {
-          "q": 36,
-          "r": 15
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 36,
-          "r": 15
-        },
-        "to": {
-          "q": 36,
-          "r": 16
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 36,
-          "r": 16
-        },
-        "to": {
-          "q": 36,
-          "r": 17
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 36,
-          "r": 17
-        },
-        "to": {
-          "q": 35,
-          "r": 17
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 35,
-          "r": 17
-        },
-        "to": {
-          "q": 34,
-          "r": 17
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 34,
-          "r": 17
-        },
-        "to": {
-          "q": 33,
-          "r": 17
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 33,
-          "r": 17
-        },
-        "to": {
-          "q": 32,
-          "r": 17
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 32,
-          "r": 17
-        },
-        "to": {
-          "q": 31,
-          "r": 17
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 31,
-          "r": 17
-        },
-        "to": {
-          "q": 30,
-          "r": 17
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 30,
-          "r": 17
-        },
-        "to": {
-          "q": 29,
-          "r": 17
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 29,
-          "r": 17
-        },
-        "to": {
-          "q": 29,
-          "r": 16
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 29,
-          "r": 16
-        },
-        "to": {
-          "q": 29,
-          "r": 15
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 29,
-          "r": 15
-        },
-        "to": {
-          "q": 29,
-          "r": 14
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 29,
-          "r": 14
-        },
-        "to": {
-          "q": 29,
-          "r": 13
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 29,
-          "r": 13
-        },
-        "to": {
-          "q": 29,
-          "r": 12
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "总装车间与T-34生产线",
-        "owner": "soviet",
-        "hp": 360,
-        "maxHp": 360,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
           "q": 31,
           "r": 18
         },
@@ -10138,386 +9682,6 @@
         "owner": "soviet",
         "hp": 330,
         "maxHp": 330,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 35,
-          "r": 14
-        },
-        "to": {
-          "q": 36,
-          "r": 14
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 36,
-          "r": 14
-        },
-        "to": {
-          "q": 37,
-          "r": 14
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 37,
-          "r": 14
-        },
-        "to": {
-          "q": 38,
-          "r": 14
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 38,
-          "r": 14
-        },
-        "to": {
-          "q": 39,
-          "r": 14
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 39,
-          "r": 14
-        },
-        "to": {
-          "q": 40,
-          "r": 14
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 40,
-          "r": 14
-        },
-        "to": {
-          "q": 40,
-          "r": 15
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 40,
-          "r": 15
-        },
-        "to": {
-          "q": 40,
-          "r": 16
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 40,
-          "r": 16
-        },
-        "to": {
-          "q": 40,
-          "r": 17
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 40,
-          "r": 17
-        },
-        "to": {
-          "q": 40,
-          "r": 18
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 40,
-          "r": 18
-        },
-        "to": {
-          "q": 40,
-          "r": 19
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 40,
-          "r": 19
-        },
-        "to": {
-          "q": 39,
-          "r": 19
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 39,
-          "r": 19
-        },
-        "to": {
-          "q": 38,
-          "r": 19
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 38,
-          "r": 19
-        },
-        "to": {
-          "q": 37,
-          "r": 19
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 37,
-          "r": 19
-        },
-        "to": {
-          "q": 36,
-          "r": 19
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 36,
-          "r": 19
-        },
-        "to": {
-          "q": 35,
-          "r": 19
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 35,
-          "r": 19
-        },
-        "to": {
-          "q": 35,
-          "r": 18
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 35,
-          "r": 18
-        },
-        "to": {
-          "q": 35,
-          "r": 17
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 35,
-          "r": 17
-        },
-        "to": {
-          "q": 35,
-          "r": 16
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 35,
-          "r": 16
-        },
-        "to": {
-          "q": 35,
-          "r": 15
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
-        "integrity": 100,
-        "status": "intact",
-        "breach": false
-      },
-      {
-        "from": {
-          "q": 35,
-          "r": 15
-        },
-        "to": {
-          "q": 35,
-          "r": 14
-        },
-        "type": "industrial_wall",
-        "name": "工业建筑防御墙",
-        "section": "厂区指挥核心",
-        "owner": "soviet",
-        "hp": 380,
-        "maxHp": 380,
         "integrity": 100,
         "status": "intact",
         "breach": false
@@ -11566,6 +10730,842 @@
         "integrity": 100,
         "status": "intact",
         "breach": false
+      },
+      {
+        "from": {
+          "q": 30,
+          "r": 12
+        },
+        "to": {
+          "q": 31,
+          "r": 12
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 31,
+          "r": 12
+        },
+        "to": {
+          "q": 32,
+          "r": 12
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 32,
+          "r": 12
+        },
+        "to": {
+          "q": 33,
+          "r": 12
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 33,
+          "r": 12
+        },
+        "to": {
+          "q": 34,
+          "r": 12
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 34,
+          "r": 12
+        },
+        "to": {
+          "q": 35,
+          "r": 12
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 35,
+          "r": 12
+        },
+        "to": {
+          "q": 36,
+          "r": 12
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 36,
+          "r": 12
+        },
+        "to": {
+          "q": 37,
+          "r": 12
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 37,
+          "r": 12
+        },
+        "to": {
+          "q": 37,
+          "r": 13
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 37,
+          "r": 13
+        },
+        "to": {
+          "q": 37,
+          "r": 14
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 37,
+          "r": 14
+        },
+        "to": {
+          "q": 37,
+          "r": 15
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 37,
+          "r": 15
+        },
+        "to": {
+          "q": 37,
+          "r": 16
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 37,
+          "r": 16
+        },
+        "to": {
+          "q": 37,
+          "r": 17
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 37,
+          "r": 17
+        },
+        "to": {
+          "q": 36,
+          "r": 17
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 36,
+          "r": 17
+        },
+        "to": {
+          "q": 35,
+          "r": 17
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 35,
+          "r": 17
+        },
+        "to": {
+          "q": 34,
+          "r": 17
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 34,
+          "r": 17
+        },
+        "to": {
+          "q": 33,
+          "r": 17
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 33,
+          "r": 17
+        },
+        "to": {
+          "q": 32,
+          "r": 17
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 32,
+          "r": 17
+        },
+        "to": {
+          "q": 31,
+          "r": 17
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 31,
+          "r": 17
+        },
+        "to": {
+          "q": 30,
+          "r": 17
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 30,
+          "r": 17
+        },
+        "to": {
+          "q": 30,
+          "r": 16
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 30,
+          "r": 16
+        },
+        "to": {
+          "q": 30,
+          "r": 15
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 30,
+          "r": 15
+        },
+        "to": {
+          "q": 30,
+          "r": 14
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 30,
+          "r": 14
+        },
+        "to": {
+          "q": 30,
+          "r": 13
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 30,
+          "r": 13
+        },
+        "to": {
+          "q": 30,
+          "r": 12
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "总装车间与T-34生产线",
+        "owner": "soviet",
+        "hp": 360,
+        "maxHp": 360,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 39,
+          "r": 13
+        },
+        "to": {
+          "q": 40,
+          "r": 13
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 40,
+          "r": 13
+        },
+        "to": {
+          "q": 41,
+          "r": 13
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 41,
+          "r": 13
+        },
+        "to": {
+          "q": 42,
+          "r": 13
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 42,
+          "r": 13
+        },
+        "to": {
+          "q": 43,
+          "r": 13
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 43,
+          "r": 13
+        },
+        "to": {
+          "q": 44,
+          "r": 13
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 44,
+          "r": 13
+        },
+        "to": {
+          "q": 44,
+          "r": 14
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 44,
+          "r": 14
+        },
+        "to": {
+          "q": 44,
+          "r": 15
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 44,
+          "r": 15
+        },
+        "to": {
+          "q": 44,
+          "r": 16
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 44,
+          "r": 16
+        },
+        "to": {
+          "q": 44,
+          "r": 17
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 44,
+          "r": 17
+        },
+        "to": {
+          "q": 44,
+          "r": 18
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 44,
+          "r": 18
+        },
+        "to": {
+          "q": 43,
+          "r": 18
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 43,
+          "r": 18
+        },
+        "to": {
+          "q": 42,
+          "r": 18
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 42,
+          "r": 18
+        },
+        "to": {
+          "q": 41,
+          "r": 18
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 41,
+          "r": 18
+        },
+        "to": {
+          "q": 40,
+          "r": 18
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 40,
+          "r": 18
+        },
+        "to": {
+          "q": 39,
+          "r": 18
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 39,
+          "r": 18
+        },
+        "to": {
+          "q": 39,
+          "r": 17
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 39,
+          "r": 17
+        },
+        "to": {
+          "q": 39,
+          "r": 16
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 39,
+          "r": 16
+        },
+        "to": {
+          "q": 39,
+          "r": 15
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 39,
+          "r": 15
+        },
+        "to": {
+          "q": 39,
+          "r": 14
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
+      },
+      {
+        "from": {
+          "q": 39,
+          "r": 14
+        },
+        "to": {
+          "q": 39,
+          "r": 13
+        },
+        "type": "industrial_wall",
+        "name": "工业建筑防御墙",
+        "section": "厂区指挥核心",
+        "owner": "soviet",
+        "hp": 380,
+        "maxHp": 380,
+        "integrity": 100,
+        "status": "intact",
+        "breach": false
       }
     ],
     "gates": [
@@ -11619,11 +11619,11 @@
         "name": "总装车间北门",
         "nameZh": "总装车间北门",
         "from": {
-          "q": 32,
+          "q": 33,
           "r": 12
         },
         "to": {
-          "q": 33,
+          "q": 34,
           "r": 12
         },
         "open": true,
@@ -11634,11 +11634,11 @@
         "name": "T-34生产线出厂门",
         "nameZh": "T-34生产线出厂门",
         "from": {
-          "q": 36,
+          "q": 37,
           "r": 16
         },
         "to": {
-          "q": 36,
+          "q": 37,
           "r": 17
         },
         "open": true,
@@ -11664,11 +11664,11 @@
         "name": "厂区指挥所东门",
         "nameZh": "厂区指挥所东门",
         "from": {
-          "q": 39,
-          "r": 17
+          "q": 44,
+          "r": 16
         },
         "to": {
-          "q": 40,
+          "q": 44,
           "r": 17
         },
         "open": true,
@@ -11910,7 +11910,13 @@
     "factoryWallsRequireGateOrBreach": true,
     "engineersCanRepairWalls": true,
     "airAndArtilleryDamageFortifications": true,
-    "factoryFreshT34DirectToFront": true
+    "factoryFreshT34DirectToFront": true,
+    "wallTopologyValidated": true,
+    "wallTopologyRequirements": {
+      "duplicateEdges": 0,
+      "branchVertices": 0,
+      "nonAdjacentEdges": 0
+    }
   },
   "description": "1942年10月的捷尔任斯基拖拉机厂保卫战。厂区被重构为高密度工业堡垒：\n外围由堑壕、雷区、碉堡和阻绝墙构成；铸造、总装、T-34生产线、修理车间、\n铁路仓库与指挥核心均拥有独立连续工业建筑防御墙。苏军依托厂房逐屋抵抗，\nT-34可从生产线直接投入战斗。航空与炮兵攻击能够破坏工事和墙体并制造突破口。"
 }
