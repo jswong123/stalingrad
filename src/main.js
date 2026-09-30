@@ -3080,7 +3080,7 @@ function makeSlotCard(label,summary,slot,mode){
 }
 async function resumeFromSnapshot(snapshot){ if(!snapshot)return false; const key=snapshot.scenarioKey ?? snapshot.scenario?.id ?? 'wanjialing'; hideMainMenu(); await loadScenario(key,snapshot); return true; }
 function initializeMainMenu(){
-  const main=document.getElementById('mainMenu'); main?.removeAttribute('hidden'); try{const ui=JSON.parse(localStorage.getItem('frontline_main_ui_v021')||'null');if(ui)mainDevApplyUIData(ui);}catch(e){} updateMainMenu();
+  const main=document.getElementById('mainMenu'); main?.removeAttribute('hidden'); updateMainMenu();
   document.getElementById('menuNewGame')?.addEventListener('click',()=>{hideMainMenu();showScenarioSelection();});
   document.getElementById('menuContinue')?.addEventListener('click',()=>resumeFromSnapshot(saveSystem.loadResume() ?? saveSystem.loadAutoSave()));
   document.getElementById('menuDeveloper')?.addEventListener('click',openMainDeveloperEditor);
