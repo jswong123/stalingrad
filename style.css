@@ -1518,3 +1518,183 @@ body:has(#view25d-toggle.active) #game-area {
     #operationPanel { height: 40vh !important; }
 }
 
+
+
+/* ============================================================
+   V0.26.8 iPad / Tablet HUD collision fix
+   1. 回合信息不再被 180px 限制截断
+   2. 地块信息与单位信息改为左右分栏，不再重叠
+   3. 保留 V0.26.7 的单位信息加高与手机布局
+   ============================================================ */
+
+/* 常规桌面仍保持居中的单位信息框 */
+@media (min-width: 1367px) {
+    #unitFloat {
+        left: 50%;
+        right: auto;
+        transform: translateX(-50%);
+    }
+}
+
+/* iPad / Android 平板横屏 */
+@media (orientation: landscape) and (min-width: 601px) and (max-width: 1366px) {
+    /* 顶栏：给日期/时间/回合/行动方更高优先级 */
+    #topbar {
+        gap: 5px !important;
+    }
+
+    #turnInfo {
+        flex: 1 1 245px !important;
+        min-width: 220px !important;
+        max-width: none !important;
+        width: auto !important;
+        white-space: nowrap !important;
+        overflow: visible !important;
+        text-overflow: clip !important;
+        font-size: 11px !important;
+    }
+
+    #save-system-controls {
+        flex: 0 1 auto !important;
+        gap: 3px !important;
+    }
+
+    #save-system-controls button,
+    #save-system-controls select {
+        padding-left: 7px !important;
+        padding-right: 7px !important;
+    }
+
+    /* 左侧地块信息固定占位 */
+    #terrainFloat {
+        left: 8px !important;
+        right: auto !important;
+        top: 8px !important;
+        width: 190px !important;
+        max-width: 190px !important;
+        box-sizing: border-box !important;
+        z-index: 31 !important;
+    }
+
+    /* 单位信息从地块信息右侧开始，彻底取消居中定位 */
+    #unitFloat {
+        left: 206px !important;
+        right: 8px !important;
+        top: 8px !important;
+        transform: none !important;
+
+        width: auto !important;
+        max-width: none !important;
+        min-width: 0 !important;
+
+        min-height: 132px !important;
+        max-height: 205px !important;
+        box-sizing: border-box !important;
+        z-index: 30 !important;
+    }
+
+    #unitFloat #unitInfo {
+        max-height: 148px !important;
+        overflow-y: auto !important;
+        overflow-x: auto !important;
+    }
+}
+
+/* 较窄的 iPad 横屏 / 小型 Android 平板 */
+@media (orientation: landscape) and (min-width: 601px) and (max-width: 1100px) {
+    #turnInfo {
+        flex-basis: 225px !important;
+        min-width: 205px !important;
+        font-size: 10px !important;
+    }
+
+    #terrainFloat {
+        width: 176px !important;
+        max-width: 176px !important;
+    }
+
+    #unitFloat {
+        left: 192px !important;
+        right: 6px !important;
+        max-height: 195px !important;
+    }
+
+    #unitFloat #unitInfo {
+        max-height: 138px !important;
+    }
+
+    #save-system-controls button,
+    #save-system-controls select {
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+        font-size: 10px !important;
+    }
+}
+
+/* 平板竖屏：同样保证两个信息框之间留出明确间隔 */
+@media (orientation: portrait) and (min-width: 601px) and (max-width: 1100px) {
+    #terrainFloat {
+        left: 8px !important;
+        right: auto !important;
+        top: 8px !important;
+        width: 190px !important;
+        max-width: 190px !important;
+        box-sizing: border-box !important;
+    }
+
+    #unitFloat {
+        left: 206px !important;
+        right: 8px !important;
+        top: 8px !important;
+        transform: none !important;
+        width: auto !important;
+        max-width: none !important;
+        min-width: 0 !important;
+        box-sizing: border-box !important;
+    }
+
+    #turnInfo {
+        min-width: 210px !important;
+        max-width: none !important;
+        white-space: nowrap !important;
+        overflow: visible !important;
+        text-overflow: clip !important;
+    }
+}
+
+/* 手机继续采用紧凑布局；覆盖平板规则，避免互相污染 */
+@media (max-width: 600px) {
+    #turnInfo {
+        min-width: 0 !important;
+        max-width: 58vw !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+    }
+
+    #terrainFloat {
+        left: 5px !important;
+        right: auto !important;
+        width: 142px !important;
+        max-width: 142px !important;
+    }
+
+    #unitFloat {
+        left: auto !important;
+        right: 5px !important;
+        transform: none !important;
+        width: calc(100% - 157px) !important;
+        max-width: calc(100% - 157px) !important;
+    }
+}
+
+@media (max-width: 420px) {
+    #terrainFloat {
+        width: 124px !important;
+        max-width: 124px !important;
+    }
+
+    #unitFloat {
+        width: calc(100% - 139px) !important;
+        max-width: calc(100% - 139px) !important;
+    }
+}
