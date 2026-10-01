@@ -3384,6 +3384,102 @@
         "q": 28,
         "r": 36,
         "type": "position"
+      },
+      {
+        "id": "moltkebridge",
+        "name": "毛奇桥",
+        "nameZh": "毛奇桥",
+        "q": 23,
+        "r": 22,
+        "type": "strongpoint"
+      },
+      {
+        "id": "lehrter",
+        "name": "莱尔特车站",
+        "nameZh": "莱尔特车站",
+        "q": 22,
+        "r": 22,
+        "type": "strongpoint"
+      },
+      {
+        "id": "alexanderplatz",
+        "name": "亚历山大广场",
+        "nameZh": "亚历山大广场",
+        "q": 27,
+        "r": 24,
+        "type": "strongpoint"
+      },
+      {
+        "id": "anhalter",
+        "name": "安哈尔特车站",
+        "nameZh": "安哈尔特车站",
+        "q": 24,
+        "r": 27,
+        "type": "strongpoint"
+      },
+      {
+        "id": "potsdamer",
+        "name": "波茨坦广场",
+        "nameZh": "波茨坦广场",
+        "q": 23,
+        "r": 26,
+        "type": "strongpoint"
+      },
+      {
+        "id": "friedrichstrasse",
+        "name": "腓特烈大街",
+        "nameZh": "腓特烈大街",
+        "q": 25,
+        "r": 24,
+        "type": "strongpoint"
+      },
+      {
+        "id": "landwehr",
+        "name": "兰德韦尔运河防线",
+        "nameZh": "兰德韦尔运河防线",
+        "q": 25,
+        "r": 28,
+        "type": "position"
+      },
+      {
+        "id": "spree_inner",
+        "name": "施普雷河内城防线",
+        "nameZh": "施普雷河内城防线",
+        "q": 24,
+        "r": 22,
+        "type": "position"
+      },
+      {
+        "id": "charlottenburg",
+        "name": "夏洛滕堡",
+        "nameZh": "夏洛滕堡",
+        "q": 20,
+        "r": 25,
+        "type": "town"
+      },
+      {
+        "id": "moabit",
+        "name": "莫阿比特",
+        "nameZh": "莫阿比特",
+        "q": 22,
+        "r": 21,
+        "type": "town"
+      },
+      {
+        "id": "neukolln",
+        "name": "新克尔恩",
+        "nameZh": "新克尔恩",
+        "q": 29,
+        "r": 29,
+        "type": "town"
+      },
+      {
+        "id": "treptow",
+        "name": "特雷普托",
+        "nameZh": "特雷普托",
+        "q": 31,
+        "r": 28,
+        "type": "town"
       }
     ],
     "fortifications": [
@@ -4606,6 +4702,1039 @@
         "progress": 100,
         "name": "施潘道西部据点",
         "nameZh": "施潘道西部据点"
+      },
+      {
+        "q": 34,
+        "r": 22,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 34,
+        "r": 24,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 34,
+        "r": 26,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 32,
+        "r": 20,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 32,
+        "r": 22,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 32,
+        "r": 24,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 32,
+        "r": 26,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 32,
+        "r": 28,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 30,
+        "r": 18,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 30,
+        "r": 20,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 30,
+        "r": 22,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 30,
+        "r": 24,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 30,
+        "r": 26,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 30,
+        "r": 28,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 30,
+        "r": 30,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 28,
+        "r": 18,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 28,
+        "r": 20,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 28,
+        "r": 22,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 28,
+        "r": 24,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 28,
+        "r": 26,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 28,
+        "r": 28,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 28,
+        "r": 30,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 26,
+        "r": 20,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 26,
+        "r": 22,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 26,
+        "r": 24,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 26,
+        "r": 26,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 26,
+        "r": 28,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 24,
+        "r": 21,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 24,
+        "r": 23,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 24,
+        "r": 25,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 24,
+        "r": 27,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 22,
+        "r": 23,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 22,
+        "r": 25,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 22,
+        "r": 27,
+        "type": "urban_fortification",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林城区街垒与反坦克支撑点",
+        "nameZh": "柏林城区街垒与反坦克支撑点"
+      },
+      {
+        "q": 29,
+        "r": 17,
+        "type": "strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林要点防御阵地",
+        "nameZh": "柏林要点防御阵地"
+      },
+      {
+        "q": 32,
+        "r": 24,
+        "type": "strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林要点防御阵地",
+        "nameZh": "柏林要点防御阵地"
+      },
+      {
+        "q": 28,
+        "r": 31,
+        "type": "strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林要点防御阵地",
+        "nameZh": "柏林要点防御阵地"
+      },
+      {
+        "q": 18,
+        "r": 23,
+        "type": "strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林要点防御阵地",
+        "nameZh": "柏林要点防御阵地"
+      },
+      {
+        "q": 28,
+        "r": 36,
+        "type": "strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林要点防御阵地",
+        "nameZh": "柏林要点防御阵地"
+      },
+      {
+        "q": 24,
+        "r": 24,
+        "type": "strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林要点防御阵地",
+        "nameZh": "柏林要点防御阵地"
+      },
+      {
+        "q": 23,
+        "r": 23,
+        "type": "strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林要点防御阵地",
+        "nameZh": "柏林要点防御阵地"
+      },
+      {
+        "q": 24,
+        "r": 25,
+        "type": "strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林要点防御阵地",
+        "nameZh": "柏林要点防御阵地"
+      },
+      {
+        "q": 22,
+        "r": 25,
+        "type": "fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "动物园防空塔重型要塞",
+        "nameZh": "动物园防空塔重型要塞"
+      },
+      {
+        "q": 27,
+        "r": 20,
+        "type": "fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "洪堡海恩防空塔重型要塞",
+        "nameZh": "洪堡海恩防空塔重型要塞"
+      },
+      {
+        "q": 29,
+        "r": 23,
+        "type": "fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "腓特烈斯海恩防空塔重型要塞",
+        "nameZh": "腓特烈斯海恩防空塔重型要塞"
+      },
+      {
+        "q": 23,
+        "r": 23,
+        "type": "urban_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "政府区核心防御圈",
+        "nameZh": "政府区核心防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 24,
+        "r": 23,
+        "type": "urban_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "政府区核心防御圈",
+        "nameZh": "政府区核心防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 23,
+        "r": 24,
+        "type": "urban_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "政府区核心防御圈",
+        "nameZh": "政府区核心防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 24,
+        "r": 24,
+        "type": "urban_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "政府区核心防御圈",
+        "nameZh": "政府区核心防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 24,
+        "r": 25,
+        "type": "urban_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "政府区核心防御圈",
+        "nameZh": "政府区核心防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 23,
+        "r": 25,
+        "type": "urban_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "政府区核心防御圈",
+        "nameZh": "政府区核心防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 25,
+        "r": 25,
+        "type": "urban_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "政府区核心防御圈",
+        "nameZh": "政府区核心防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 23,
+        "r": 26,
+        "type": "urban_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "政府区核心防御圈",
+        "nameZh": "政府区核心防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 24,
+        "r": 26,
+        "type": "urban_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "政府区核心防御圈",
+        "nameZh": "政府区核心防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 22,
+        "r": 22,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "国会大厦—毛奇桥支撑点",
+        "nameZh": "国会大厦—毛奇桥支撑点",
+        "status": "intact"
+      },
+      {
+        "q": 23,
+        "r": 22,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "国会大厦—毛奇桥支撑点",
+        "nameZh": "国会大厦—毛奇桥支撑点",
+        "status": "intact"
+      },
+      {
+        "q": 22,
+        "r": 23,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "国会大厦—毛奇桥支撑点",
+        "nameZh": "国会大厦—毛奇桥支撑点",
+        "status": "intact"
+      },
+      {
+        "q": 23,
+        "r": 21,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "国会大厦—毛奇桥支撑点",
+        "nameZh": "国会大厦—毛奇桥支撑点",
+        "status": "intact"
+      },
+      {
+        "q": 22,
+        "r": 25,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "动物园防空塔要塞群",
+        "nameZh": "动物园防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 21,
+        "r": 25,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "动物园防空塔要塞群",
+        "nameZh": "动物园防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 22,
+        "r": 26,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "动物园防空塔要塞群",
+        "nameZh": "动物园防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 21,
+        "r": 26,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "动物园防空塔要塞群",
+        "nameZh": "动物园防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 27,
+        "r": 20,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "洪堡海恩防空塔要塞群",
+        "nameZh": "洪堡海恩防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 26,
+        "r": 20,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "洪堡海恩防空塔要塞群",
+        "nameZh": "洪堡海恩防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 27,
+        "r": 21,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "洪堡海恩防空塔要塞群",
+        "nameZh": "洪堡海恩防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 28,
+        "r": 20,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "洪堡海恩防空塔要塞群",
+        "nameZh": "洪堡海恩防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 29,
+        "r": 23,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "腓特烈斯海恩防空塔要塞群",
+        "nameZh": "腓特烈斯海恩防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 28,
+        "r": 23,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "腓特烈斯海恩防空塔要塞群",
+        "nameZh": "腓特烈斯海恩防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 29,
+        "r": 24,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "腓特烈斯海恩防空塔要塞群",
+        "nameZh": "腓特烈斯海恩防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 30,
+        "r": 23,
+        "type": "flak_fortress",
+        "level": 4,
+        "owner": "german",
+        "progress": 100,
+        "name": "腓特烈斯海恩防空塔要塞群",
+        "nameZh": "腓特烈斯海恩防空塔要塞群",
+        "status": "intact"
+      },
+      {
+        "q": 28,
+        "r": 31,
+        "type": "airfield_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "滕珀尔霍夫机场防御圈",
+        "nameZh": "滕珀尔霍夫机场防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 27,
+        "r": 31,
+        "type": "airfield_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "滕珀尔霍夫机场防御圈",
+        "nameZh": "滕珀尔霍夫机场防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 29,
+        "r": 31,
+        "type": "airfield_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "滕珀尔霍夫机场防御圈",
+        "nameZh": "滕珀尔霍夫机场防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 28,
+        "r": 30,
+        "type": "airfield_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "滕珀尔霍夫机场防御圈",
+        "nameZh": "滕珀尔霍夫机场防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 28,
+        "r": 32,
+        "type": "airfield_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "滕珀尔霍夫机场防御圈",
+        "nameZh": "滕珀尔霍夫机场防御圈",
+        "status": "intact"
+      },
+      {
+        "q": 24,
+        "r": 27,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "安哈尔特车站支撑点",
+        "nameZh": "安哈尔特车站支撑点",
+        "status": "intact"
+      },
+      {
+        "q": 23,
+        "r": 26,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "波茨坦广场街垒群",
+        "nameZh": "波茨坦广场街垒群",
+        "status": "intact"
+      },
+      {
+        "q": 27,
+        "r": 24,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "亚历山大广场支撑点",
+        "nameZh": "亚历山大广场支撑点",
+        "status": "intact"
+      },
+      {
+        "q": 25,
+        "r": 24,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "腓特烈大街街垒群",
+        "nameZh": "腓特烈大街街垒群",
+        "status": "intact"
+      },
+      {
+        "q": 22,
+        "r": 22,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "莱尔特车站防御点",
+        "nameZh": "莱尔特车站防御点",
+        "status": "intact"
+      },
+      {
+        "q": 22,
+        "r": 28,
+        "type": "antitank_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "兰德韦尔运河防线",
+        "nameZh": "兰德韦尔运河防线",
+        "status": "intact"
+      },
+      {
+        "q": 23,
+        "r": 28,
+        "type": "antitank_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "兰德韦尔运河防线",
+        "nameZh": "兰德韦尔运河防线",
+        "status": "intact"
+      },
+      {
+        "q": 24,
+        "r": 28,
+        "type": "antitank_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "兰德韦尔运河防线",
+        "nameZh": "兰德韦尔运河防线",
+        "status": "intact"
+      },
+      {
+        "q": 25,
+        "r": 28,
+        "type": "antitank_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "兰德韦尔运河防线",
+        "nameZh": "兰德韦尔运河防线",
+        "status": "intact"
+      },
+      {
+        "q": 26,
+        "r": 28,
+        "type": "antitank_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "兰德韦尔运河防线",
+        "nameZh": "兰德韦尔运河防线",
+        "status": "intact"
+      },
+      {
+        "q": 27,
+        "r": 28,
+        "type": "antitank_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "兰德韦尔运河防线",
+        "nameZh": "兰德韦尔运河防线",
+        "status": "intact"
+      },
+      {
+        "q": 28,
+        "r": 28,
+        "type": "antitank_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "兰德韦尔运河防线",
+        "nameZh": "兰德韦尔运河防线",
+        "status": "intact"
+      },
+      {
+        "q": 30,
+        "r": 21,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林内城东部阻击线",
+        "nameZh": "柏林内城东部阻击线",
+        "status": "intact"
+      },
+      {
+        "q": 31,
+        "r": 22,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林内城东部阻击线",
+        "nameZh": "柏林内城东部阻击线",
+        "status": "intact"
+      },
+      {
+        "q": 32,
+        "r": 23,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林内城东部阻击线",
+        "nameZh": "柏林内城东部阻击线",
+        "status": "intact"
+      },
+      {
+        "q": 32,
+        "r": 25,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林内城东部阻击线",
+        "nameZh": "柏林内城东部阻击线",
+        "status": "intact"
+      },
+      {
+        "q": 31,
+        "r": 27,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林内城东部阻击线",
+        "nameZh": "柏林内城东部阻击线",
+        "status": "intact"
+      },
+      {
+        "q": 30,
+        "r": 29,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "柏林内城东部阻击线",
+        "nameZh": "柏林内城东部阻击线",
+        "status": "intact"
+      },
+      {
+        "q": 19,
+        "r": 23,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "施潘道—夏洛滕堡防御区",
+        "nameZh": "施潘道—夏洛滕堡防御区",
+        "status": "intact"
+      },
+      {
+        "q": 20,
+        "r": 23,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "施潘道—夏洛滕堡防御区",
+        "nameZh": "施潘道—夏洛滕堡防御区",
+        "status": "intact"
+      },
+      {
+        "q": 20,
+        "r": 24,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "施潘道—夏洛滕堡防御区",
+        "nameZh": "施潘道—夏洛滕堡防御区",
+        "status": "intact"
+      },
+      {
+        "q": 20,
+        "r": 25,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "施潘道—夏洛滕堡防御区",
+        "nameZh": "施潘道—夏洛滕堡防御区",
+        "status": "intact"
+      },
+      {
+        "q": 21,
+        "r": 25,
+        "type": "urban_strongpoint",
+        "level": 3,
+        "owner": "german",
+        "progress": 100,
+        "name": "施潘道—夏洛滕堡防御区",
+        "nameZh": "施潘道—夏洛滕堡防御区",
+        "status": "intact"
       }
     ],
     "minefields": [
@@ -5649,6 +6778,36 @@
       "breachAtHp": 0,
       "destroyedWallDisappears": true,
       "showDurabilityInHexInfo": true
+    },
+    "berlinDefenseSystem": {
+      "enabled": true,
+      "description": "柏林城区纵深城防：外围障碍、街垒、反坦克支撑点、要点堡垒与三座重型防空塔。",
+      "flakTowersProvideAirDefense": true,
+      "version": "2.0-key-strongpoints",
+      "defenseLayers": [
+        "外围反坦克障碍带",
+        "东部城区阻击线",
+        "兰德韦尔运河防线",
+        "政府区核心防御圈"
+      ],
+      "keyStrongpoints": [
+        "国会大厦",
+        "帝国总理府",
+        "毛奇桥",
+        "动物园防空塔",
+        "洪堡海恩防空塔",
+        "腓特烈斯海恩防空塔",
+        "滕珀尔霍夫机场",
+        "亚历山大广场",
+        "安哈尔特车站",
+        "波茨坦广场"
+      ],
+      "flakTowerRule": {
+        "airDefenseEnabled": true,
+        "zoneRadius": 6,
+        "fortificationLevel": 4,
+        "fixedPosition": true
+      }
     }
   },
   "victoryConditions": {
