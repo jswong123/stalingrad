@@ -3907,918 +3907,323 @@
     "wallEdges": [
       {
         "from": {
-          "q": 25,
-          "r": 15
-        },
-        "to": {
-          "q": 25,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 25,
-          "r": 34
-        },
-        "to": {
-          "q": 25,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 26,
-          "r": 15
-        },
-        "to": {
-          "q": 26,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 26,
-          "r": 34
-        },
-        "to": {
-          "q": 26,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 27,
-          "r": 15
-        },
-        "to": {
-          "q": 27,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 27,
-          "r": 34
-        },
-        "to": {
-          "q": 27,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 28,
-          "r": 15
-        },
-        "to": {
-          "q": 28,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 28,
-          "r": 34
-        },
-        "to": {
-          "q": 28,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 29,
-          "r": 15
-        },
-        "to": {
-          "q": 29,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 29,
-          "r": 34
-        },
-        "to": {
-          "q": 29,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 30,
-          "r": 15
-        },
-        "to": {
-          "q": 30,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 30,
-          "r": 34
-        },
-        "to": {
-          "q": 30,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 31,
-          "r": 15
-        },
-        "to": {
-          "q": 31,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 31,
-          "r": 34
-        },
-        "to": {
-          "q": 31,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 32,
-          "r": 15
-        },
-        "to": {
-          "q": 32,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 32,
-          "r": 34
-        },
-        "to": {
-          "q": 32,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 33,
-          "r": 15
-        },
-        "to": {
-          "q": 33,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 33,
-          "r": 34
-        },
-        "to": {
-          "q": 33,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 34,
-          "r": 15
-        },
-        "to": {
-          "q": 34,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 34,
-          "r": 34
-        },
-        "to": {
-          "q": 34,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 35,
-          "r": 15
-        },
-        "to": {
-          "q": 35,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 35,
-          "r": 34
-        },
-        "to": {
-          "q": 35,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
           "q": 36,
-          "r": 15
+          "r": 14
         },
         "to": {
-          "q": 36,
-          "r": 16
+          "q": 37,
+          "r": 14
         },
         "section": "北城墙",
-        "status": "open",
-        "type": "gate",
+        "status": "intact",
+        "type": "historic_city_wall",
         "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 36,
-          "r": 34
-        },
-        "to": {
-          "q": 36,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "open",
-        "type": "gate",
-        "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
           "q": 37,
-          "r": 15
+          "r": 14
         },
         "to": {
-          "q": 37,
-          "r": 16
+          "q": 38,
+          "r": 14
         },
         "section": "北城墙",
         "status": "intact",
-        "type": "wall",
+        "type": "historic_city_wall",
         "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 37,
-          "r": 34
-        },
-        "to": {
-          "q": 37,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
           "q": 38,
-          "r": 15
+          "r": 14
         },
         "to": {
-          "q": 38,
-          "r": 16
+          "q": 39,
+          "r": 14
         },
         "section": "北城墙",
         "status": "intact",
-        "type": "wall",
+        "type": "historic_city_wall",
         "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 38,
-          "r": 34
-        },
-        "to": {
-          "q": 38,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
           "q": 39,
+          "r": 14
+        },
+        "to": {
+          "q": 40,
+          "r": 14
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 40,
+          "r": 14
+        },
+        "to": {
+          "q": 41,
+          "r": 14
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 41,
+          "r": 14
+        },
+        "to": {
+          "q": 42,
+          "r": 14
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 42,
+          "r": 14
+        },
+        "to": {
+          "q": 43,
+          "r": 14
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 43,
+          "r": 14
+        },
+        "to": {
+          "q": 44,
+          "r": 14
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 44,
+          "r": 14
+        },
+        "to": {
+          "q": 45,
+          "r": 14
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 45,
+          "r": 14
+        },
+        "to": {
+          "q": 46,
+          "r": 14
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 46,
+          "r": 14
+        },
+        "to": {
+          "q": 47,
+          "r": 14
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 47,
+          "r": 14
+        },
+        "to": {
+          "q": 47,
+          "r": 15
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 47,
           "r": 15
         },
         "to": {
-          "q": 39,
+          "q": 47,
           "r": 16
         },
         "section": "北城墙",
         "status": "intact",
-        "type": "wall",
+        "type": "historic_city_wall",
         "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
-          "q": 39,
-          "r": 34
-        },
-        "to": {
-          "q": 39,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 40,
-          "r": 15
-        },
-        "to": {
-          "q": 40,
+          "q": 47,
           "r": 16
+        },
+        "to": {
+          "q": 47,
+          "r": 17
         },
         "section": "北城墙",
         "status": "intact",
-        "type": "wall",
+        "type": "historic_city_wall",
         "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
-          "q": 40,
-          "r": 34
+          "q": 47,
+          "r": 17
         },
         "to": {
-          "q": 40,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 41,
-          "r": 15
-        },
-        "to": {
-          "q": 41,
-          "r": 16
+          "q": 47,
+          "r": 18
         },
         "section": "北城墙",
         "status": "intact",
-        "type": "wall",
+        "type": "historic_city_wall",
         "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
-          "q": 41,
-          "r": 34
+          "q": 47,
+          "r": 18
         },
         "to": {
-          "q": 41,
-          "r": 35
+          "q": 47,
+          "r": 19
         },
-        "section": "南城墙",
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 47,
+          "r": 19
+        },
+        "to": {
+          "q": 47,
+          "r": 20
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 47,
+          "r": 20
+        },
+        "to": {
+          "q": 47,
+          "r": 21
+        },
+        "section": "东城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 47,
+          "r": 21
+        },
+        "to": {
+          "q": 47,
+          "r": 22
+        },
+        "section": "东城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 47,
+          "r": 22
+        },
+        "to": {
+          "q": 47,
+          "r": 23
+        },
+        "section": "东城墙战斗缺口",
         "status": "breached",
-        "type": "wall",
+        "type": "historic_city_wall",
         "hp": 0,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 42,
-          "r": 15
-        },
-        "to": {
-          "q": 42,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 42,
-          "r": 34
-        },
-        "to": {
-          "q": 42,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 43,
-          "r": 15
-        },
-        "to": {
-          "q": 43,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 43,
-          "r": 34
-        },
-        "to": {
-          "q": 43,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 44,
-          "r": 15
-        },
-        "to": {
-          "q": 44,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 44,
-          "r": 34
-        },
-        "to": {
-          "q": 44,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 45,
-          "r": 15
-        },
-        "to": {
-          "q": 45,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 45,
-          "r": 34
-        },
-        "to": {
-          "q": 45,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 46,
-          "r": 15
-        },
-        "to": {
-          "q": 46,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 46,
-          "r": 34
-        },
-        "to": {
-          "q": 46,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 15
-        },
-        "to": {
-          "q": 47,
-          "r": 16
-        },
-        "section": "北城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 34
-        },
-        "to": {
-          "q": 47,
-          "r": 35
-        },
-        "section": "南城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 16
-        },
-        "to": {
-          "q": 25,
-          "r": 16
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 16
-        },
-        "to": {
-          "q": 48,
-          "r": 16
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 17
-        },
-        "to": {
-          "q": 25,
-          "r": 17
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 17
-        },
-        "to": {
-          "q": 48,
-          "r": 17
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 18
-        },
-        "to": {
-          "q": 25,
-          "r": 18
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 18
-        },
-        "to": {
-          "q": 48,
-          "r": 18
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 19
-        },
-        "to": {
-          "q": 25,
-          "r": 19
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 19
-        },
-        "to": {
-          "q": 48,
-          "r": 19
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 20
-        },
-        "to": {
-          "q": 25,
-          "r": 20
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 20
-        },
-        "to": {
-          "q": 48,
-          "r": 20
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 21
-        },
-        "to": {
-          "q": 25,
-          "r": 21
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 21
-        },
-        "to": {
-          "q": 48,
-          "r": 21
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 22
-        },
-        "to": {
-          "q": 25,
-          "r": 22
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 22
-        },
-        "to": {
-          "q": 48,
-          "r": 22
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 23
-        },
-        "to": {
-          "q": 25,
-          "r": 23
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
@@ -4826,29 +4231,15 @@
           "r": 23
         },
         "to": {
-          "q": 48,
-          "r": 23
+          "q": 47,
+          "r": 24
         },
         "section": "东城墙",
-        "status": "breached",
-        "type": "wall",
-        "hp": 0,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 24
-        },
-        "to": {
-          "q": 25,
-          "r": 24
-        },
-        "section": "西城墙",
         "status": "intact",
-        "type": "wall",
+        "type": "historic_city_wall",
         "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
@@ -4856,29 +4247,15 @@
           "r": 24
         },
         "to": {
-          "q": 48,
-          "r": 24
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
+          "q": 47,
           "r": 25
         },
-        "to": {
-          "q": 25,
-          "r": 25
-        },
-        "section": "西城墙",
+        "section": "东门",
         "status": "open",
         "type": "gate",
         "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
@@ -4886,290 +4263,711 @@
           "r": 25
         },
         "to": {
-          "q": 48,
-          "r": 25
+          "q": 46,
+          "r": 26
         },
         "section": "东城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 46,
+          "r": 26
+        },
+        "to": {
+          "q": 45,
+          "r": 27
+        },
+        "section": "东城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 45,
+          "r": 27
+        },
+        "to": {
+          "q": 44,
+          "r": 28
+        },
+        "section": "东城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 44,
+          "r": 28
+        },
+        "to": {
+          "q": 43,
+          "r": 29
+        },
+        "section": "东城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 43,
+          "r": 29
+        },
+        "to": {
+          "q": 42,
+          "r": 30
+        },
+        "section": "东城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 42,
+          "r": 30
+        },
+        "to": {
+          "q": 41,
+          "r": 31
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 41,
+          "r": 31
+        },
+        "to": {
+          "q": 40,
+          "r": 32
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 40,
+          "r": 32
+        },
+        "to": {
+          "q": 39,
+          "r": 33
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 39,
+          "r": 33
+        },
+        "to": {
+          "q": 38,
+          "r": 34
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 38,
+          "r": 34
+        },
+        "to": {
+          "q": 37,
+          "r": 35
+        },
+        "section": "南门",
         "status": "open",
         "type": "gate",
         "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
-          "q": 24,
-          "r": 26
+          "q": 37,
+          "r": 35
+        },
+        "to": {
+          "q": 36,
+          "r": 36
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 36,
+          "r": 36
+        },
+        "to": {
+          "q": 35,
+          "r": 36
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 35,
+          "r": 36
+        },
+        "to": {
+          "q": 34,
+          "r": 36
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 34,
+          "r": 36
+        },
+        "to": {
+          "q": 33,
+          "r": 36
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 33,
+          "r": 36
+        },
+        "to": {
+          "q": 32,
+          "r": 36
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 32,
+          "r": 36
+        },
+        "to": {
+          "q": 31,
+          "r": 36
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 31,
+          "r": 36
+        },
+        "to": {
+          "q": 30,
+          "r": 36
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 30,
+          "r": 36
+        },
+        "to": {
+          "q": 29,
+          "r": 36
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 29,
+          "r": 36
+        },
+        "to": {
+          "q": 28,
+          "r": 36
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 28,
+          "r": 36
+        },
+        "to": {
+          "q": 27,
+          "r": 36
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 27,
+          "r": 36
+        },
+        "to": {
+          "q": 26,
+          "r": 36
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 26,
+          "r": 36
         },
         "to": {
           "q": 25,
-          "r": 26
+          "r": 36
         },
-        "section": "西城墙",
+        "section": "南城墙",
         "status": "intact",
-        "type": "wall",
+        "type": "historic_city_wall",
         "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
-          "q": 47,
-          "r": 26
-        },
-        "to": {
-          "q": 48,
-          "r": 26
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 27
+          "q": 25,
+          "r": 36
         },
         "to": {
           "q": 25,
-          "r": 27
+          "r": 35
         },
-        "section": "西城墙",
+        "section": "南城墙",
         "status": "intact",
-        "type": "wall",
+        "type": "historic_city_wall",
         "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
-          "q": 47,
-          "r": 27
-        },
-        "to": {
-          "q": 48,
-          "r": 27
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 28
-        },
-        "to": {
           "q": 25,
-          "r": 28
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 28
-        },
-        "to": {
-          "q": 48,
-          "r": 28
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 29
-        },
-        "to": {
-          "q": 25,
-          "r": 29
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 29
-        },
-        "to": {
-          "q": 48,
-          "r": 29
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 30
-        },
-        "to": {
-          "q": 25,
-          "r": 30
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 30
-        },
-        "to": {
-          "q": 48,
-          "r": 30
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 31
-        },
-        "to": {
-          "q": 25,
-          "r": 31
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 31
-        },
-        "to": {
-          "q": 48,
-          "r": 31
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 32
-        },
-        "to": {
-          "q": 25,
-          "r": 32
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 32
-        },
-        "to": {
-          "q": 48,
-          "r": 32
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 33
-        },
-        "to": {
-          "q": 25,
-          "r": 33
-        },
-        "section": "西城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 47,
-          "r": 33
-        },
-        "to": {
-          "q": 48,
-          "r": 33
-        },
-        "section": "东城墙",
-        "status": "intact",
-        "type": "wall",
-        "hp": 1000,
-        "maxHp": 1000
-      },
-      {
-        "from": {
-          "q": 24,
-          "r": 34
+          "r": 35
         },
         "to": {
           "q": 25,
           "r": 34
         },
-        "section": "西城墙",
+        "section": "南城墙",
         "status": "intact",
-        "type": "wall",
+        "type": "historic_city_wall",
         "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
       },
       {
         "from": {
-          "q": 47,
+          "q": 25,
           "r": 34
         },
         "to": {
-          "q": 48,
-          "r": 34
+          "q": 25,
+          "r": 33
         },
-        "section": "东城墙",
+        "section": "南城墙",
         "status": "intact",
-        "type": "wall",
+        "type": "historic_city_wall",
         "hp": 1000,
-        "maxHp": 1000
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 33
+        },
+        "to": {
+          "q": 25,
+          "r": 32
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 32
+        },
+        "to": {
+          "q": 25,
+          "r": 31
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 31
+        },
+        "to": {
+          "q": 25,
+          "r": 30
+        },
+        "section": "南城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 30
+        },
+        "to": {
+          "q": 25,
+          "r": 29
+        },
+        "section": "西城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 29
+        },
+        "to": {
+          "q": 25,
+          "r": 28
+        },
+        "section": "西城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 28
+        },
+        "to": {
+          "q": 25,
+          "r": 27
+        },
+        "section": "西城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 27
+        },
+        "to": {
+          "q": 25,
+          "r": 26
+        },
+        "section": "西城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 26
+        },
+        "to": {
+          "q": 25,
+          "r": 25
+        },
+        "section": "西门",
+        "status": "open",
+        "type": "gate",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 25,
+          "r": 25
+        },
+        "to": {
+          "q": 26,
+          "r": 24
+        },
+        "section": "西城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 26,
+          "r": 24
+        },
+        "to": {
+          "q": 27,
+          "r": 23
+        },
+        "section": "西城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 27,
+          "r": 23
+        },
+        "to": {
+          "q": 28,
+          "r": 22
+        },
+        "section": "西城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 28,
+          "r": 22
+        },
+        "to": {
+          "q": 29,
+          "r": 21
+        },
+        "section": "西城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 29,
+          "r": 21
+        },
+        "to": {
+          "q": 30,
+          "r": 20
+        },
+        "section": "西城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 30,
+          "r": 20
+        },
+        "to": {
+          "q": 31,
+          "r": 19
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 31,
+          "r": 19
+        },
+        "to": {
+          "q": 32,
+          "r": 18
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 32,
+          "r": 18
+        },
+        "to": {
+          "q": 33,
+          "r": 17
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 33,
+          "r": 17
+        },
+        "to": {
+          "q": 34,
+          "r": 16
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 34,
+          "r": 16
+        },
+        "to": {
+          "q": 35,
+          "r": 15
+        },
+        "section": "北门",
+        "status": "open",
+        "type": "gate",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
+      },
+      {
+        "from": {
+          "q": 35,
+          "r": 15
+        },
+        "to": {
+          "q": 36,
+          "r": 14
+        },
+        "section": "北城墙",
+        "status": "intact",
+        "type": "historic_city_wall",
+        "hp": 1000,
+        "maxHp": 1000,
+        "level": 3
       }
     ],
     "urbanDefenseRules": {
       "closedWallEdgesImpassable": true,
       "breachRequired": true,
-      "note": "完整城墙边界不可跨越；只能通过开放城门或已形成的缺口。"
+      "wallTopology": "single_closed_loop",
+      "destroyedWallDisappears": true,
+      "note": "滕县城墙采用单闭环拓扑；开放城门与战斗缺口可通行，其余完整城墙不可跨越。"
     },
     "gates": [
       {
@@ -5177,12 +4975,12 @@
         "name": "北门",
         "nameZh": "北门",
         "from": {
-          "q": 36,
-          "r": 15
+          "q": 34,
+          "r": 16
         },
         "to": {
-          "q": 36,
-          "r": 16
+          "q": 35,
+          "r": 15
         },
         "open": true,
         "type": "gate"
@@ -5193,10 +4991,10 @@
         "nameZh": "东门",
         "from": {
           "q": 47,
-          "r": 25
+          "r": 24
         },
         "to": {
-          "q": 48,
+          "q": 47,
           "r": 25
         },
         "open": true,
@@ -5207,11 +5005,11 @@
         "name": "南门",
         "nameZh": "南门",
         "from": {
-          "q": 36,
+          "q": 38,
           "r": 34
         },
         "to": {
-          "q": 36,
+          "q": 37,
           "r": 35
         },
         "open": true,
@@ -5222,8 +5020,8 @@
         "name": "西门",
         "nameZh": "西门",
         "from": {
-          "q": 24,
-          "r": 25
+          "q": 25,
+          "r": 26
         },
         "to": {
           "q": 25,
@@ -5291,6 +5089,14 @@
           "fromTurn": 2
         }
       }
+    }
+  },
+  "specialRules": {
+    "wallTopologyValidated": true,
+    "wallTopologyRequirements": {
+      "maxBranches": 0,
+      "expectedComponents": 1,
+      "closedLoop": true
     }
   }
 }
