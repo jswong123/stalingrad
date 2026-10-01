@@ -1939,6 +1939,21 @@ export class Renderer {
 
             const fortType=String(fort?.type??"fieldworks").toLowerCase();
             const integrity=Math.max(0,Math.min(100,Number(fort?.integrity??100)));
+            // 柏林等高密度城市战：只给关键工事显示名称，避免普通工事文字淹没地图。
+            if(fort?.showLabel && this.camera.zoom >= 0.72){
+                const label=String(fort?.nameZh??fort?.name??'').trim();
+                if(label){
+                    ctx.save();
+                    ctx.font=`${Math.max(9,11*this.camera.zoom)}px sans-serif`;
+                    ctx.textAlign='center'; ctx.textBaseline='bottom';
+                    ctx.lineWidth=Math.max(2,3*this.camera.zoom);
+                    ctx.strokeStyle='rgba(235,228,196,.92)';
+                    ctx.fillStyle='#2b2b24';
+                    const ly=p.y-size*.52;
+                    ctx.strokeText(label,p.x,ly); ctx.fillText(label,p.x,ly);
+                    ctx.restore();
+                }
+            }
             // 沙盘模式：不同工事拥有不同“实体高度/底座”，一眼区分战壕、碉堡、防空阵地。
             if(this.view25D?.enabled && String(fort?.status)!=='destroyed'){
                 const hMap={foxhole:.06,trench:.09,strongpoint:.18,bunker:.34,aa_position_1:.13,aa_position_2:.20,aa_position_3:.28};
